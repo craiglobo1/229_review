@@ -6,4 +6,6 @@
 - [RISC-V online complier (venus)](https://venus.cs61c.org/)
 - [C assembler (use gcc/clang riscv)](https://godbolt.org/)
 - [Screenshot ocr](http://www.structurise.com/screenshot-ocr/)
-- [Notion notes (not implemented)](https://familiar-crest-868.notion.site/229-Midterm-Resources-6dd5b0200c14427ba4dc5a2a47c859f8)
+- [Notion notes Midterm 1](https://familiar-crest-868.notion.site/229-Midterm-Resources-6dd5b0200c14427ba4dc5a2a47c859f8)
+- [Notion notes Midterm 2](https://familiar-crest-868.notion.site/229-Midterm-2-78e36a3bd8de4a1bb99959db24f473b4)
+- [RARS Supported Instructions](https://github.com/TheThirdOne/rars/wiki/Supported-Instructions)

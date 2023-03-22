@@ -10,3 +10,5 @@
 - [Notion notes Midterm 2](https://familiar-crest-868.notion.site/229-Midterm-2-78e36a3bd8de4a1bb99959db24f473b4)
 - [RARS Supported Instructions](https://github.com/TheThirdOne/rars/wiki/Supported-Instructions)
 - [Chatgpt](https://chat.openai.com/chat)
+- [FP hex to decimal](https://babbage.cs.qc.cuny.edu/ieee-754.old/64bit.html)
+- [FP decimal to hex](https://gregstoll.com/~gregstoll/floattohex/)
